@@ -10,7 +10,11 @@ A ferramenta surge da parceria entre os professores [**Antonio Carlos Nicolodi**
 O **VisualG** oferece um ambiente interativo onde os alunos podem escrever, testar e depurar seus algoritmos de maneira intuitiva e prática. Utilizando fluxogramas e comandos em português, o VisualG quebra barreiras linguísticas e técnicas, tornando a programação mais acessível para iniciantes. Atualmente, o **VisualG** encontra-se em sua versão **3.0.7**, a qual será utilizada para desenvolver as atividades presentes neste repositório.
 
 ## LÓGICA
+Quando falamos de programação e desenvolvimento de sistemas, referimo-nos, antes de mais nada, na concepção de soluções práticas para os problemas do cotidiano em determinados ambientes (pequenas, médias e grandes empresas). Para que as soluções propostas sejam efetivas, devemos fazer uso de métodos que garantam que o problema de fato seja efetivo.
 
+Na construção de uma solução computacional, é importante que o problema seja de fato compreendido para que, posteriormente, a solução seja efetiva. Assim, evitam-se retrabalhos relacionados à correção do código-fonte com frequência. Em relação à refatoração de código, nem sempre está unicamente relacionada a questões de qualidade do código-fonte; há outros fatores que podem influenciar nessa decisão. No entanto, focando no desenvolvimento do código-fonte, é importante que ele tenha qualidade. Para isso, a lógica de programação vem a "trazer" essa qualidade ao código-fonte desenvolvido.
+
+A Lógica de Programação nada mais é que a organização de nosso pensamento frente a um problema de modo organizado, ou seja, que tenha início, meio e fim. 
 ## ALGORITMO
 
 ## BIBLIOGRAFIA
